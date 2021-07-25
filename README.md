@@ -1,2 +1,2 @@
-# C-Programming-Examples
-Eğitimim süresince gerek ders için gerekse hobi amaçlı geliştirdiğim C programları 
+# C-Programming-Example
+Some C programming examples that I coded them for classwork or to enhance my skills

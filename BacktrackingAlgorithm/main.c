@@ -101,6 +101,7 @@ int main()
 	{
 		PrintSolutionMatrix(visitedCells);
 	}
+	
 	else
 	{
 		printf("Path doesn't exist");
